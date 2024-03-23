@@ -1,0 +1,31 @@
+{
+  "name": "quasiquia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshaGutmann/quasiquia.git"
+  },
+  "author": "BradlyOrn",
+  "license": "ISC",
+  "homepage": "https://github.com/AshaGutmann/quasiquia.git",
+  "dependencies": {
+    "@types/bluebird": "3.0.36",
+    "@types/es6-shim": "0.31.32",
+    "@types/lodash": "4.14.42",
+    "@types/reflect-metadata": "0.0.5",
+    "bluebird": "3.4.6",
+    "es6-shim": "0.35.2",
+    "js2xmlparser": "2.0.2",
+    "lodash": "4.17.2",
+    "reflect-metadata": "0.1.8"
+  },
+  "devDependencies": {
+    "@types/chai": "3.4.34",
+    "@types/mocha": "2.2.33",
+    "chai": "3.5.0",
+    "mocha": "3.2.0",
+    "tslint": "4.0.2",
+    "typescript": "2.0.10"
+  }
+}
